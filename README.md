@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mustapha62996
 - 👀 I’m interested in . programming..
-- 🌱 I’m currently learning ...web development
+- 🌱 I’m currently learning ...Java
 - 💞️ I’m looking to collaborate on ...a coding project
 - 📫 How to reach me ... hassmustapha787@gmail.com
 
